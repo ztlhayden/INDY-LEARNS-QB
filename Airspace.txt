@@ -1,0 +1,51 @@
+What airspace is tailored to contain all instrument procedures for the busiest airports in the us?
+A.	Class A
+B.	Class B
+C.	Class C
+D.	Class D
+ANSWER: B
+
+What class is airspace between FL180 and FL600?
+A.	Class A
+B.	Class B
+C.	Class C
+D.	Class D
+ANSWER: A
+
+What airspace is KLEX in?
+A.	Class C
+B.	Class D
+C.	Class G
+D.	Class E
+ANSWER: A
+
+What type of airspace would an aircraft be operating in at 7500 on V97 between HYK and LOZ?
+A.	Class C
+B.	Class D
+C.	Class G
+D.	Class E
+ANSWER: D
+
+What airspace is usually that closest to the ground?
+A.	Class C
+B.	Class D
+C.	Class G
+D.	Class E
+ANSWER: C
+
+All aircraft operating in Class B airspace must have a clearance prior to entering.
+A.	True
+B.	False
+ANSWER: B
+
+Class G airspace is uncontrolled airspace.
+A.	True
+B.	False
+ANSWER: A
+
+What is the maximum speed aircraft may operate bellow Class B airspace?
+A.	250 knots
+B.	180 knots
+C.	210 knots
+D.	200 knots
+ANSWER: D
