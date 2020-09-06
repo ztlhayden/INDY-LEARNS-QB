@@ -1,0 +1,20 @@
+Select the appropriate cruise altitude for a eastbound IFR aircraft.
+A.	10,000
+B.	10,500
+C.	11,000
+D.	11,500
+ANSWER: C
+
+Select the appropriate cruise altitude for a westbound VFR aircraft. 
+A.	10,000
+B.	10,500
+C.	11,000
+D.	11,500
+ANSWER: B
+
+An aircraft is requesting a VFR departure from a Class C airport. What information must be provided?
+A.	Transponder Code
+B.	Departure Frequency
+C.	All of the Above
+D.	No Information is Required
+ANSWER: C
