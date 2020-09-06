@@ -1,0 +1,22 @@
+Select the correct frequency for Louisville Tower
+A.	
+B.	
+C.	
+D.	
+ANSWER:
+
+Select the correct format for a radio transmission on initial contact.
+A.	Identification of aircraft, identification of ATC unit, message.
+B.	Identification of ATC unit, identification of aircraft, message.
+C.	Identification of aircraft, message, identification of ATC unit.
+ANSWER: A
+
+Shortened callsigns should not be used when similar sounding callsigns are involved.
+A.	True
+B.	False
+ANSWER: A
+
+Military callsigns should not be shortened.
+A.	True
+B.	False
+ANSWER: A
