@@ -56,3 +56,22 @@ B.	180 knots
 C.	210 knots
 D.	200 knots
 ANSWER: D
+
+What SUAs are established for the purpose of separating certain military training activities from IFR traffic.
+A.  Restricted Areas
+B.  Warning Areas
+C.  Military Operations Areas
+D.  National Security Areas
+ANSWER: C
+
+Alert Areas are depicted to:
+A.  Inform nonparticipating pilots of areas that may contain a high volume of pilot training or an unusual type of aerial activity.
+B.  Identify an area on the surface of the earth within which the flight of aircraft is prohibited.
+C.  Identify an area on the surface of the earth within which the flight of aircraft, while not wholly prohibited, is subject to restrictions.
+D.  Show that portion of airspace that has not been designated as Class A, Class B, Class C, Class D, or Class E airspace.
+ANSWER: A
+
+Aircraft operating under VFR can not enter a MOA.
+A.  True
+B.  False
+ANSWER: B
